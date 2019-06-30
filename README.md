@@ -34,4 +34,18 @@ https://www.anaconda.com/distribution/
     import sys
     import threading 
 3. After Installation Open Spyder(one of the application that comes with Anaconda)
-4. Have a look at below Screen short 
+
+** **Running the tests** **
+* Have a look at below Screen short 
+   ![alt text](Screen.png)
+   
+* Please verify and follow the steps 
+ 1. Version of Python
+ 2. Sampling interval already hardcoded to 10
+* Execute the Script 
+ 3. Will prompt for process name - Enter the process name
+ 4. Will prompt for execution time - minimum is 1 min
+    
+ ** **Author** **
+ Agnel Leon
+    
