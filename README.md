@@ -26,7 +26,7 @@ following data about the process:<br/>
 2. Recommended Version is above 3 (3.7)
 
 ** **Installing** **
-1. If you don't have python installed , Best would be Install Anaconda from below path ,
+1. If you don't have python installed , Best would be Install Anaconda from below link ,
 https://www.anaconda.com/distribution/
 2. This would automatically take care of all import packages as we need below packages for this script to execute 
     import psutil
