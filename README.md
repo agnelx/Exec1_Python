@@ -39,7 +39,7 @@ https://www.anaconda.com/distribution/
 
 ** **Running the tests** **
 * Have a look at below Screen short 
-   ![alt text](Screen.png)
+   ![alt text](Running.jpg)
 * Please verify and follow the steps 
  1. Version of Python
  2. Sampling interval already hardcoded to 10
