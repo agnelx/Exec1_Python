@@ -38,7 +38,7 @@ https://www.anaconda.com/distribution/
 
 
 ** **Running the tests** **
-* Have a look at below Screen short 
+* Have a look at below Screenshot 
    ![alt text](Running.jpg)
 * Please verify and follow the steps 
  1. Version of Python
