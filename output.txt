@@ -1,4 +1,4 @@
-Average Private Memory :  12771328
-Average File Descriptor :  6
+Average Private Memory :  105524503.27
+Average File Descriptor :  29.89
 Average CPU % :  0.0
 No Memory Leak to Report
