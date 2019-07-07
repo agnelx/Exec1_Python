@@ -33,7 +33,7 @@ https://www.anaconda.com/distribution/
     import time
     import sys
     import threading 
-3.To run from command line please run below command
+3. To run from command line please run below command
    python3 -m pip install psutil (required if not installed in your machine)
 
 
