@@ -43,10 +43,10 @@ https://www.anaconda.com/distribution/
 * Please verify and follow the steps 
  1. Version of Python
  2. Sampling interval already hardcoded to 10
- 4.Go to your command line and execute below commands
-  *goto <path/of/the/script>
-  *python Process_list_Details_windows_new.py notepad 1   
-    note : Hear we are checking for process notepad for 1 minute
+ 4. Go to your command line and execute below commands
+   * goto <path/of/the/script>
+   * python Process_list_Details_windows_new.py notepad 1   
+     note : Hear we are checking for process notepad for 1 minute
 
     
  ** **Author** **
